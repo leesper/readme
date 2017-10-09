@@ -2,7 +2,7 @@
 
 ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-project descrption.
+A high-level project descrption. Use [Shields](http://shields.io/) to add some to your project.
 
 ## Features
 
@@ -10,7 +10,7 @@ Let people know what your project can do specifically.
 
 ## Visuals
 
-Some screenshots or GIFs about your project.
+Some screenshots or GIFs about your project. [ttygif](https://github.com/icholy/ttygif) can help, and [Asciinema](https://asciinema.org/) for a more sophisticated method.
 
 ## Requirements
 
@@ -56,6 +56,8 @@ Show your appreciation to those who have contributed to the project.
 For open source projects, say how it is licensed. For example:
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+You can use [this website](https://choosealicense.com/) to choose one.
 
 ## Changelog
 
